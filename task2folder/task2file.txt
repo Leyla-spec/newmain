@@ -1,0 +1,3 @@
+task2 nin fayli 
+movzu basligi: 
+
