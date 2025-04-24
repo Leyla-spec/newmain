@@ -1,0 +1,2 @@
+task1 in fayli
+ movzu basligi:
